@@ -1,0 +1,1 @@
+# scan_create_codebarre_qr
